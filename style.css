@@ -1,0 +1,66 @@
+@charset "UTF-8"
+
+body {
+    
+}
+
+h1 {
+    color: blue;
+   margin: 20px;
+   padding: 10;
+   border-bottom: 1px solid;
+}
+/*
+#botao1 {
+    left:1.5em;
+    position:absolute;
+    font-size:1.5em;
+    border:"none";
+    background-color:#F50600 ;
+    color: white;
+    
+}
+
+#botao2 {
+    left:2.5em;
+    position:absolute;
+    font-size:1.5em;
+    border:"none";
+    background-color:#0712F4 ;
+    color: white;
+}
+
+#botao3 {
+    left:4.0em;
+    position:absolute;
+    font-size:1.5em;
+    border:"none";
+    background-color:#F5F300 ;
+    color: white;
+    padding: 1.0em;
+    
+}
+
+p{
+    color: red;
+    padding: 50px;
+}
+
+h2 {
+    color: purple;
+    
+}
+
+#proximo{
+    bottom: 1.5em;
+}
+*/
+
+.botao{
+    background-color: purple;
+    display: flex;
+    flex-direction: column;
+}
+.m{
+    
+}
